@@ -2,6 +2,8 @@
 
 A high-performance C++ raytracer that renders photorealistic scenes with multiple material types including diffuse, metallic, and glass surfaces.
 
+![Sample Render](background.png)
+
 ## Features
 
 - **Multi-threaded rendering** for improved performance
