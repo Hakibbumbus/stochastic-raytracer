@@ -1,0 +1,26 @@
+# Build artifacts
+*.exe
+*.obj
+*.pdb
+main.exe
+raytracer.exe
+
+# Build directories
+build/
+Debug/
+Release/
+
+# Visual Studio files
+*.vcxproj*
+*.sln
+*.suo
+*.user
+
+# Output files
+output.ppm
+nul
+
+# IDE settings
+.claude/
+.vs/
+.vscode/settings.json
